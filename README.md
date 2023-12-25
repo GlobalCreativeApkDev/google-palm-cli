@@ -32,7 +32,7 @@ Then, the application will start with something looking like in the screenshot b
 
 ![Application](images/Application.png)
 
-You have to choices:
+You have two choices:
 
 1. Enter a non-empty prompt to receive a response from the AI.
 2. Enter an empty prompt to exit the application.
