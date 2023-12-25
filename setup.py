@@ -9,7 +9,7 @@ def readme():
 
 setup(
     name='google-palm-cli',
-    version='1',
+    version='1.1',
     packages=['google-palm-cli'],
     url='https://github.com/GlobalCreativeApkDev/google-palm-cli',
     license='MIT',

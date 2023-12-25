@@ -15,7 +15,10 @@ pip install google-palm-cli
 
 # How to Use the Application?
 
-Pre-requisite: [Python](https://www.python.org/downloads/) installed on your device.
+Pre-requisites: 
+
+1. [Python](https://www.python.org/downloads/) installed on your device.
+2. .env file is in the same directory as <GOOGLE_PALM_CLI_DIRECTORY> and has the value of PALM_API_KEY.
 
 First, open a Terminal or Command Prompt window and run the following command.
 
